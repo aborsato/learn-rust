@@ -4,4 +4,5 @@ Rust learning projects following the [The Rust Programming Language](https://doc
 ## Projects:
 1. [Hello, World!](hello)
 1. [Guessing Game](guessing_game)
+1. [Rectangle](rectangle)
 1. TBD
