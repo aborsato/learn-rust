@@ -44,4 +44,10 @@ fn main() {
         rect3,
         rect1.can_hold(&rect3)
     );
+    println!(
+        "Can {:?} hold {:?}? {}",
+        rect2,
+        rect3,
+        rect2.can_hold(&rect3)
+    );
 }
