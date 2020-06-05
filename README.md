@@ -5,4 +5,5 @@ Rust learning projects following the [The Rust Programming Language](https://doc
 1. [Hello, World!](hello)
 1. [Guessing Game](guessing_game)
 1. [Rectangle](rectangle)
+1. [Webserver](webserver) _WiP_
 1. TBD
